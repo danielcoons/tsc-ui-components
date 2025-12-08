@@ -778,9 +778,12 @@
 		</Item>
 		<Item Name="demo-ui.vi" Type="VI" URL="../controls/demo-ui.vi"/>
 		<Item Name="top-level app.vi" Type="VI" URL="../controls/top-level app.vi"/>
+		<Item Name="temp--set tags.vi" Type="VI" URL="../source/temp--set tags.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
+				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
+				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
