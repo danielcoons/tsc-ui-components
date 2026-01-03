@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="28mm"
-   height="24mm"
-   viewBox="0 0 28 24"
+   width="22mm"
+   height="14mm"
+   viewBox="0 0 22 14"
    version="1.1"
    id="svg1"
    sodipodi:docname="increment.svg"
@@ -26,60 +26,63 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.5875"
-     inkscape:cx="203.46457"
-     inkscape:cy="114.33071"
+     inkscape:zoom="2"
+     inkscape:cx="210"
+     inkscape:cy="195.25"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer25">
+     inkscape:current-layer="layer22">
     <inkscape:page
        x="0"
        y="0"
-       width="28"
-       height="24"
+       width="22"
+       height="14"
        id="page1"
        margin="0"
        bleed="0"
        inkscape:label="increment-nopress" />
     <inkscape:page
-       x="0.41666666"
-       y="26.666666"
-       width="28"
-       height="24"
+       x="0.4745765"
+       y="16.64377"
+       width="22"
+       height="14"
        id="page2"
        margin="0"
        bleed="0"
        inkscape:label="increment-press"
        inkscape:export-filename=".\increment\increment-press.png"
-       inkscape:export-xdpi="12.7"
-       inkscape:export-ydpi="12.7" />
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
     <inkscape:page
-       x="28.916666"
-       y="-0.49999997"
-       width="28"
-       height="24"
+       x="27.136131"
+       y="-2.8682501"
+       width="22"
+       height="14"
        id="page3"
        margin="0"
        bleed="0"
        inkscape:label="decrement-nopress"
        inkscape:export-filename=".\increment\decrement-press.png"
-       inkscape:export-xdpi="12.7"
-       inkscape:export-ydpi="12.7" />
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
     <inkscape:page
-       x="29.249998"
-       y="27.333332"
-       width="28"
-       height="24"
+       x="27.469465"
+       y="16.762997"
+       width="22"
+       height="14"
        id="page4"
        margin="0"
        bleed="0"
-       inkscape:label="decrement-press" />
+       inkscape:label="decrement-press"
+       inkscape:export-filename=".\increment\decrement-nopress.png"
+       inkscape:export-xdpi="12.7"
+       inkscape:export-ydpi="12.7" />
     <inkscape:page
-       x="1.4142135"
-       y="54.565071"
+       x="-1.4246528"
+       y="70.320778"
        width="24"
        height="22"
        id="page5"
@@ -90,8 +93,8 @@
        inkscape:export-xdpi="11.641666"
        inkscape:export-ydpi="11.641666" />
     <inkscape:page
-       x="29.934187"
-       y="54.682922"
+       x="27.09532"
+       y="70.438629"
        width="12"
        height="36"
        id="page6"
@@ -102,8 +105,8 @@
        inkscape:export-xdpi="25.399996"
        inkscape:export-ydpi="25.399996" />
     <inkscape:page
-       x="61.871841"
-       y="-0.35355338"
+       x="59.032974"
+       y="15.402154"
        width="24"
        height="24"
        id="page7"
@@ -114,8 +117,8 @@
        inkscape:export-xdpi="25.399996"
        inkscape:export-ydpi="25.399996" />
     <inkscape:page
-       x="62.666664"
-       y="27.499998"
+       x="59.827797"
+       y="43.255707"
        width="24"
        height="24"
        id="page8"
@@ -125,30 +128,131 @@
        inkscape:export-filename=".\increment\selector-press.png"
        inkscape:export-xdpi="25.399996"
        inkscape:export-ydpi="25.399996" />
+    <inkscape:page
+       x="97.161133"
+       y="15.422374"
+       width="22"
+       height="22"
+       id="page9"
+       margin="0"
+       bleed="0"
+       inkscape:label="increment-nopress-numeric"
+       inkscape:export-filename=".\increment\increment-nopress-numeric.png"
+       inkscape:export-xdpi="25.399996"
+       inkscape:export-ydpi="25.399996" />
+    <inkscape:page
+       x="97.789665"
+       y="41.768524"
+       width="22"
+       height="22"
+       id="page10"
+       margin="0"
+       bleed="0"
+       inkscape:label="increment-press-numeric"
+       inkscape:export-filename=".\increment\increment-nopress-numeric.png"
+       inkscape:export-xdpi="25.399996"
+       inkscape:export-ydpi="25.399996" />
+    <inkscape:page
+       x="124.27224"
+       y="14.593991"
+       width="22"
+       height="22"
+       id="page11"
+       margin="0"
+       bleed="0"
+       inkscape:label="decrement-nopress-numeric" />
+    <inkscape:page
+       x="125.33716"
+       y="42.281559"
+       width="22"
+       height="22"
+       id="page12"
+       margin="0"
+       bleed="0"
+       inkscape:label="decrement-press-numeric"
+       inkscape:export-filename=".\increment\increment-nopress-numeric.png"
+       inkscape:export-xdpi="30.018173"
+       inkscape:export-ydpi="30.018173" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="increment-nopress-numeric"
+     transform="translate(-2.8388663,15.755708)">
     <rect
-       style="fill:#e1e1e1;fill-opacity:0.75;stroke:#323232;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect2"
-       width="27.5"
-       height="23.5"
-       x="0.25"
-       y="0.25" />
+       style="fill:#e1e1e1;fill-opacity:0.5;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2-2"
+       width="21.5"
+       height="21.5"
+       x="100.25"
+       y="-0.083333321" />
     <path
-       id="rect1"
-       style="fill:#505050;fill-opacity:1;stroke-width:0.0999997;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
-       d="M 6.0000004,10.066667 H 22 v 3.866666 H 6.0000004 Z M 15.933333,4 V 20 H 12.066667 V 4 Z"
+       id="rect1-3"
+       style="fill:#787878;fill-opacity:1;stroke-width:0.099999;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 103.5,9.21802 h 15 v 2.897695 h -15 z m 8.94888,-6.0513532 V 18.166667 h -2.89777 V 3.1666668 Z"
        sodipodi:nodetypes="cccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g12"
+     inkscape:label="decrement-nopress-numeric"
+     transform="translate(-2.8388663,15.755708)">
+    <rect
+       style="fill:#e1e1e1;fill-opacity:0.5;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect12"
+       width="21.5"
+       height="21.5"
+       x="127.36111"
+       y="-0.91171628" />
+    <path
+       id="path12"
+       style="fill:#787878;fill-opacity:1;stroke-width:0.099999;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 130.61111,8.3894362 h 15 v 2.8976958 h -15 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10"
+     inkscape:label="increment-press-numeric"
+     transform="translate(-2.8388663,15.755708)">
+    <rect
+       style="fill:#b4b4b4;fill-opacity:0.4;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect10"
+       width="21.5"
+       height="21.5"
+       x="100.87853"
+       y="26.262817" />
+    <path
+       id="path10"
+       style="fill:#969696;fill-opacity:1;stroke-width:0.0999992;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 105.62854,35.853901 h 12 v 2.318156 h -12 z m 7.15911,-4.841083 v 12 h -2.31822 v -12 z"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g13"
+     inkscape:label="increment-press-numeric copy"
+     transform="translate(24.132319,16.78253)">
+    <rect
+       style="fill:#b4b4b4;fill-opacity:0.4;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect13"
+       width="21.5"
+       height="21.5"
+       x="101.45484"
+       y="25.749031" />
+    <path
+       id="path13"
+       style="fill:#969696;fill-opacity:1;stroke-width:0.0999992;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 106.20485,35.340115 h 12 v 2.318156 h -12 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer21"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     transform="translate(-2.8388663,15.755708)">
     <rect
        style="fill:#b4b4b4;fill-opacity:0.75;stroke:#323232;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2-8"
@@ -162,22 +266,23 @@
        d="M 6.4166664,36.983335 H 22.416668 v 3.866666 H 6.4166664 Z m 9.9333346,-6.066667 v 16 h -3.866667 v -16 z"
        sodipodi:nodetypes="cccccccccc" />
     <rect
-       style="fill:#b4b4b4;fill-opacity:0.75;stroke:#323232;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#b4b4b4;fill-opacity:0.40000001;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2-8-6"
-       width="27.5"
-       height="23.5"
-       x="29.5"
-       y="27.583332" />
+       width="21.5"
+       height="13.5"
+       x="30.558331"
+       y="1.2572892" />
     <path
        id="rect1-0-6"
-       style="fill:#787878;fill-opacity:1;stroke-width:0.0999997;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
-       d="M 35.249999,37.650002 H 51.25 v 3.866666 H 35.249999 Z"
+       style="fill:#969696;fill-opacity:1;stroke-width:0.0999999;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 36.308331,6.0739563 h 10 v 3.866666 h -10 z"
        sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer25"
-     inkscape:label="Layer 4">
+     inkscape:label="Layer 4"
+     transform="translate(-2.8388663,15.755708)">
     <rect
        style="fill:#e1e1e1;fill-opacity:0.75;stroke:#787878;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2-32"
@@ -207,9 +312,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer26"
-     inkscape:label="Layer 5">
+     inkscape:label="Layer 5"
+     transform="translate(-2.8388663,15.755708)">
     <rect
-       style="fill:#b4b4b4;fill-opacity:0.74901962;stroke:#787878;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#b4b4b4;fill-opacity:0.74902;stroke:#787878;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2-32-2"
        width="23.5"
        height="23.5"
@@ -237,7 +343,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer24"
-     inkscape:label="share">
+     inkscape:label="share"
+     transform="translate(-2.8388663,15.755708)">
     <path
        d="m 39.100855,76.405814 c -0.401111,0 -0.76,0.271067 -1.034444,0.695782 l -3.763058,-3.749999 c 0.02639,-0.207818 0.0475,-0.415662 0.0475,-0.632531 0,-0.216866 -0.0211,-0.424697 -0.0475,-0.632527 l 3.720835,-3.713858 c 0.285,0.451809 0.659721,0.731929 1.076667,0.731929 0.876109,0 1.583333,-1.210843 1.583333,-2.710842 0,-1.500003 -0.707224,-2.710844 -1.583333,-2.710844 -0.876111,0 -1.583333,1.210841 -1.583333,2.710844 0,0.216868 0.0211,0.424698 0.0475,0.632529 l -3.720833,3.713853 c -0.285,-0.451805 -0.659723,-0.731926 -1.076667,-0.731926 -0.876111,0 -1.583334,1.210845 -1.583334,2.710842 0,1.500001 0.707223,2.710844 1.583334,2.710844 0.416944,0 0.791667,-0.280117 1.076666,-0.731929 l 3.757778,3.759038 c -0.02639,0.18975 -0.04223,0.388554 -0.04223,0.587348 0,1.454819 0.691389,2.638557 1.54111,2.638557 0.849722,0 1.541111,-1.183738 1.541111,-2.638557 0,-1.454818 -0.691389,-2.638553 -1.541111,-2.638553 z m 0,-10.915662 c 0.290278,0 0.527778,0.406627 0.527778,0.903616 0,0.496985 -0.2375,0.903614 -0.527778,0.903614 -0.290278,0 -0.527778,-0.406629 -0.527778,-0.903614 0,-0.496989 0.2375,-0.903616 0.527778,-0.903616 z m -6.333334,8.132528 c -0.290279,0 -0.527778,-0.406624 -0.527778,-0.903614 0,-0.496987 0.237499,-0.903612 0.527778,-0.903612 0.290278,0 0.527777,0.406625 0.527777,0.903612 0,0.49699 -0.237499,0.903614 -0.527777,0.903614 z m 6.333334,6.343374 c -0.290278,0 -0.527778,-0.406625 -0.527778,-0.903614 0,-0.496987 0.2375,-0.903612 0.527778,-0.903612 0.290278,0 0.527778,0.406625 0.527778,0.903612 0,0.496989 -0.2375,0.903614 -0.527778,0.903614 z"
        id="path1"
@@ -246,18 +353,49 @@
   <g
      inkscape:groupmode="layer"
      id="layer22"
-     inkscape:label="Layer 3">
+     inkscape:label="Layer 3"
+     transform="translate(-2.8388663,15.755708)">
     <rect
-       style="fill:#e1e1e1;fill-opacity:0.75;stroke:#323232;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#e1e1e1;fill-opacity:0.501961;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2-3"
-       width="27.5"
-       height="23.5"
-       x="29.166668"
-       y="-0.24999999" />
+       width="21.5"
+       height="13.500007"
+       x="30.225019"
+       y="-18.373911" />
     <path
        id="rect1-9"
-       style="fill:#505050;fill-opacity:1;stroke-width:0.0999997;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
-       d="m 34.916667,9.566667 h 16 v 3.866667 h -16 z"
+       style="fill:#787878;fill-opacity:1;stroke-width:0.0999999;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke;stroke:none"
+       d="m 34.974997,-13.557292 h 12 v 3.8666676 h -12 z"
        sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.8388663,15.755708)">
+    <rect
+       style="fill:#e1e1e1;fill-opacity:0.5;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2"
+       width="21.5"
+       height="13.5"
+       x="3.0888662"
+       y="-15.505708" />
+    <path
+       id="rect1"
+       style="fill:#787878;fill-opacity:1;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="M 7.8388662,-9.9640418 H 19.838866 v 2.4166669 H 7.8388662 Z M 15.288866,-13.755708 V -3.7557078 H 12.388867 V -13.755708 Z"
+       sodipodi:nodetypes="cccccccccc" />
+    <rect
+       style="fill:#b4b4b4;fill-opacity:0.40000001;stroke:#969696;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2-4"
+       width="21.5"
+       height="13.5"
+       x="3.5634427"
+       y="1.1380627" />
+    <path
+       id="rect1-5"
+       style="fill:#969696;fill-opacity:1;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="M 9.3134425,6.8811178 H 19.313443 V 8.895007 H 9.3134425 Z M 15.521776,3.7213957 V 12.05473 H 13.10511 V 3.7213957 Z"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

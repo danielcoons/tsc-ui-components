@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
-	<Property Name="NI.LV.All.SaveVersion" Type="Str">21.0</Property>
+<Project Type="Project" LVVersion="18008000">
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">18.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -779,6 +779,8 @@
 		<Item Name="demo-ui.vi" Type="VI" URL="../controls/demo-ui.vi"/>
 		<Item Name="top-level app.vi" Type="VI" URL="../controls/top-level app.vi"/>
 		<Item Name="temp--set tags.vi" Type="VI" URL="../source/temp--set tags.vi"/>
+		<Item Name="Read Image on Button.vi" Type="VI" URL="../Read Image on Button.vi"/>
+		<Item Name="Replace Image.vi" Type="VI" URL="../Replace Image.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
