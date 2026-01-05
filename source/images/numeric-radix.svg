@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.175"
-     inkscape:cx="53.228347"
-     inkscape:cy="-48.031497"
+     inkscape:cx="53.228346"
+     inkscape:cy="2.3622047"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2">
+     inkscape:current-layer="layer1">
     <inkscape:page
        x="-1.4325655e-06"
        y="-8.798493e-08"
@@ -43,7 +43,10 @@
        id="page2"
        margin="0"
        bleed="0"
-       inkscape:label="radix-d" />
+       inkscape:label="radix-d"
+       inkscape:export-filename=".\radix\radix-p.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
     <inkscape:page
        x="9.0000134"
        y="0.16666594"
