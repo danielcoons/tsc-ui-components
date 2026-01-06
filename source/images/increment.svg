@@ -31,7 +31,7 @@
      inkscape:cy="195.25"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2">
@@ -43,7 +43,10 @@
        id="page1"
        margin="0"
        bleed="0"
-       inkscape:label="increment-nopress" />
+       inkscape:label="increment-nopress"
+       inkscape:export-filename=".\increment\decrement-nopress-numeric.png"
+       inkscape:export-xdpi="27.709093"
+       inkscape:export-ydpi="27.709093" />
     <inkscape:page
        x="0.4745765"
        y="16.64377"
