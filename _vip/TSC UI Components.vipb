@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-04 21:08:48" Modified_Date="2026-01-06 13:29:27" Creator="Daniel Coons" Comments="" ID="582e6d3c42b8c64cd2441f65bcfc81a2">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-12-04 21:08:48" Modified_Date="2026-03-19 15:59:05" Creator="Daniel Coons" Comments="" ID="c6cfdde721dc2cb6775cca50d770e58b">
   <Library_General_Settings>
     <Package_File_Name>TSC_lib_TSC_UI_Components</Package_File_Name>
-    <Library_Version>2.0.0.2</Library_Version>
+    <Library_Version>2.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\controls</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -34,15 +34,10 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
       <Copyright>Copyright (c) 2025-2026, TSC</Copyright>
       <Packager/>
       <URL>https://github.com/danielcoons/tsc-ui-components</URL>
-      <Release_Notes>## [2.0.0] - 2026.01.06
-### Changed
-- Format of the numeric controls increment/decrement images
-
+      <Release_Notes>## [2.1.0] - 2026.03.19
 ### Fixed
-- Addressed the array image bug [#1](https://github.com/danielcoons/tsc-ui-components/issues/1) which was caused because of the LabVIEW version compatibility
-
-### Deprecated
-- Support for versions  `&lt; LabVIEW 2018` has been removed</Release_Notes>
+- Addressed the plot visibility checkbox; also had an issue with removing the actual check from the box from old compatibility
+- Colorbox had a weird hazing effect that was too close to color area</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -367,7 +362,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\top-level app.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>27D4688AA4E3DD6FC2A8C094B51DE42B</GUID>
+      <GUID>2ADB5F4D79BC66AB82181617512F70AA</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -584,7 +579,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Boolean\radio buttons (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>48470B7543FB28F9B95A01BD0570BA2E</GUID>
+      <GUID>D4E7796DD3D7518816744BF60E65F823</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -717,7 +712,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Data Containers\variant control (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>72D57D0EDDDB4997C9D23B7A63CFFF76</GUID>
+      <GUID>9E89EC18019B209EB2A8DA12666B3F41</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -780,7 +775,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Graph\waveform xy graph (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B89F31EAB8F297739D72419F68B743D2</GUID>
+      <GUID>14BBF405FF6ECB513F3C161D85D9CE25</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -843,7 +838,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\IO\visa resource (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A54728218BADBE001BECA273CD3849F2</GUID>
+      <GUID>77BF3B88C7AA509E430FE55F2424BBC9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -934,7 +929,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Layout\subpanel (tsc).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>20A4E34B6C003C77E126308F7A00F4B0</GUID>
+      <GUID>E84B854DC3A684D716A8D69F25DE281A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1011,7 +1006,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\List, Table &amp; Tree\Tree control (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>741624C1674A94E7EC1828A8D31E8969</GUID>
+      <GUID>DE8DA7EC160B8D063135F1068D681B61</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1144,7 +1139,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Numeric\round color box (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>56313500024653138EC28E2A85DD9C3E</GUID>
+      <GUID>B069A218F196A6C0BBDD2EEEAFC2B921</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1221,7 +1216,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Ring &amp; Enum\pict ring (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2F5F4710DE63B3395C7F2ABE46767DD</GUID>
+      <GUID>6F21F1248D87252412B90013E42B87BE</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1326,7 +1321,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\String &amp; Path\combo box (tsc).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC3887855E3AAE3B9A7E44E1C7319D1F</GUID>
+      <GUID>0993B56A8E7ED86B8FE3B9A37ACD49FE</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1711,7 +1706,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Boolean\Common-Buttons\zoom--common.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBCF39E462922DE65C670845150F7DEA</GUID>
+      <GUID>817C5140DE33395C8C233298E32E9848</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1984,7 +1979,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Boolean\Material-Types\tonal--text--rounded.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CBFEA73786F4A2D71B24C8BF20F169D0</GUID>
+      <GUID>B7BF6FA586467D2A8F7609D25606EF31</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -6429,7 +6424,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Boolean\Token-Dark\zoom_out-dark.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>92F43871B62D3D1798F1DB183BC5CDC5</GUID>
+      <GUID>918062CFF2DDF0B1588FEA1DC791743E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -10874,7 +10869,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Boolean\Token-Light\zoom_out-light.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>86DE4C7DAF3A864D867BB0A5EA345C80</GUID>
+      <GUID>D485A28CC2540F09B7E0F4E8E1ED2F8E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -10993,7 +10988,7 @@ This toolkit can be connected with the TSC Material Toolkit (https://github.com/
         <Path>..\controls\Decorations\logo full name (tsc).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>58A7F436603DB9AD213036FE5A6FD721</GUID>
+      <GUID>230DCA5130B88FE7ED714F4B04771300</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

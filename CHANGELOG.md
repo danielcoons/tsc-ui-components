@@ -15,6 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - animated buttons
 
+## [2.1.0] - 2026.03.19
+### Fixed
+- Addressed the plot visibility checkbox; also had an issue with removing the actual check from the box from old compatibility
+- Colorbox had a weird hazing effect that was too close to color area
+
 ## [2.0.0] - 2026.01.06
 ### Changed
 - Format of the numeric controls increment/decrement images
