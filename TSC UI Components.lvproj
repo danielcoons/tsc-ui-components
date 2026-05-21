@@ -15,10 +15,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Numeric" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="double indicator.ctl" Type="VI" URL="../controls/Numeric/double indicator.ctl"/>
 			<Item Name="double.ctl" Type="VI" URL="../controls/Numeric/double.ctl"/>
 			<Item Name="hex word.ctl" Type="VI" URL="../controls/Numeric/hex word.ctl"/>
-			<Item Name="horiztonal slide (tsc).ctl" Type="VI" URL="../controls/Numeric/horiztonal slide (tsc).ctl"/>
+			<Item Name="horizontal slide (tsc).ctl" Type="VI" URL="../controls/Numeric/horizontal slide (tsc).ctl"/>
 			<Item Name="integer.ctl" Type="VI" URL="../controls/Numeric/integer.ctl"/>
 			<Item Name="round color box (tsc).ctl" Type="VI" URL="../controls/Numeric/round color box (tsc).ctl"/>
 			<Item Name="timestamp control (tsc).ctl" Type="VI" URL="../controls/Numeric/timestamp control (tsc).ctl"/>
